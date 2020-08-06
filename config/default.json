@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/rest_jwt",
+  "JWT_SECRET": "629a9e07bdbc125000f9adbda1159c78f575e7c487189cf37b8f671f5260f09319b1063a"
+}
